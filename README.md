@@ -1,2 +1,1 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Abdulics/se_batchFileProcessing)
-
+Just a simple file with java files to do batch
